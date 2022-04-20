@@ -15,6 +15,9 @@ code {
 .nav {
   padding: 0 1rem;
 }
+.nav-wrapper {
+  margin: 0 2.5rem;
+}
 
 .content {
   min-height: calc(100vh - 70px - 64px);
